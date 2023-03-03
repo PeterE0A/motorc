@@ -1,0 +1,8 @@
+C:\Users\peter\source\repos\motorcycle\motorcycle\bin\Debug\motorcycle.exe.config
+C:\Users\peter\source\repos\motorcycle\motorcycle\bin\Debug\motorcycle.exe
+C:\Users\peter\source\repos\motorcycle\motorcycle\bin\Debug\motorcycle.pdb
+C:\Users\peter\source\repos\motorcycle\motorcycle\obj\Debug\motorcycle.csproj.AssemblyReference.cache
+C:\Users\peter\source\repos\motorcycle\motorcycle\obj\Debug\motorcycle.csproj.SuggestedBindingRedirects.cache
+C:\Users\peter\source\repos\motorcycle\motorcycle\obj\Debug\motorcycle.csproj.CoreCompileInputs.cache
+C:\Users\peter\source\repos\motorcycle\motorcycle\obj\Debug\motorcycle.exe
+C:\Users\peter\source\repos\motorcycle\motorcycle\obj\Debug\motorcycle.pdb
